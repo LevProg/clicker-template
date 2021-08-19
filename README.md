@@ -1,9 +1,7 @@
 # Empty-Clicker-Unity
 ## Ready clicker base with all the necessary mechanics
-Adjusted settings, animations, sounds and more
+Adjusted settings, animations, sounds, adapted for mobile devices, in particular Android
 
-Adapted for mobile devices, in particular Android
-
-All value changes are implemented using Unity Events
+All value changes are implemented using Events
 
 Built-in Google API (for AdMob)
